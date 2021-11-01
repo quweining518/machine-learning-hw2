@@ -1,0 +1,5 @@
+Dependencies:
+
+- Python Library: Numpy, Matplotlib.pyplot, sklearn.tree.DecisionTreeClassifier, sklearn.ensemble.RandomForestClassifier
+- Paper: 
+Mikhail Belkin, Daniel Hsu, Siyuan Ma, Soumik Mandal, "Reconciling modern machine learning practice and the bias-variance trade-off", https://arxiv.org/abs/1812.11118

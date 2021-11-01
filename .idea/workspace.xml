@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d09f99d-4d15-49a8-8346-d7b00b77149b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zpOXVTi1Fs90bRAS35khrzHdSL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HW1/HW1_Programming/digits/digits_Prob.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DecisionTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HM2_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecisionTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DecisionTree" />
+        <item itemvalue="Python.DecisionTree" />
+        <item itemvalue="Python.DecisionTree" />
+        <item itemvalue="Python.DecisionTree" />
+        <item itemvalue="Python.DecisionTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d09f99d-4d15-49a8-8346-d7b00b77149b" name="Default Changelist" comment="" />
+      <created>1634841603696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634841603696</updated>
+      <workItem from="1634841610413" duration="651000" />
+      <workItem from="1634842658947" duration="45756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="0" key="#DecisionTree" timestamp="1634851839809">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="420" y="0" key="#DecisionTree/62.0.1218.720@62.0.1218.720" timestamp="1634851839809" />
+    <state x="127" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634851809860">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="127" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1218.720@62.0.1218.720" timestamp="1634851809860" />
+    <state x="452" y="116" key="FileChooserDialogImpl" timestamp="1634842736195">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="452" y="116" key="FileChooserDialogImpl/62.0.1218.720@62.0.1218.720" timestamp="1634842736195" />
+    <state width="616" height="367" key="XDebugger.FullValuePopup" timestamp="1634958651514">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="616" height="367" key="XDebugger.FullValuePopup/62.0.1218.720@62.0.1218.720" timestamp="1634958651514" />
+    <state x="139" y="66" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1634933789186">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="139" y="66" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/62.0.1218.720/-1858.0.1858.1080@62.0.1218.720" timestamp="1634933789186" />
+    <state x="382" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1634842660234">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="382" y="185" key="com.intellij.ide.util.TipDialog/62.0.1218.720@62.0.1218.720" timestamp="1634842660234" />
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1634880647229">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup/62.0.1218.720/-1858.0.1858.1080@62.0.1218.720" timestamp="1634880647229" />
+  </component>
+</project>
